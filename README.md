@@ -1,2 +1,3 @@
 # gprojects
-Robotics &amp; DSP and Machine Learning &amp; SoTA Sensors
+Robotics &amp; DSP &amp; Machine Learning &amp; SoTA Sensors
+
